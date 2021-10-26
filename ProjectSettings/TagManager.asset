@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moedas
+  - Enemy
+  - Jumper
+  - Vida
+  - FinalTela
+  - Moedao
+  - GM
+  - Platform
+  - AutomaticPlat
+  - Porta
+  - Ground
+  - limiteElevador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Ground
+  - LevelBound
+  - PlayerFire
+  - LimiteCamera
+  - Life
+  - Moeda
+  - Trigger
+  - Platform
+  - AutomaticPlat
+  - LimiteElevador
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fundo
+    uniqueID: 633290403
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1829809937
+    locked: 0
